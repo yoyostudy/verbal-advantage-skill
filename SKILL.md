@@ -7,7 +7,7 @@ description: Use when polishing or editing English paper writing to replace vagu
 
 Help the user write with words that say something more exactly than the common word does. The approach follows the method of vocabulary books like Verbal Advantage: a word is chosen and taught through its distinction from near-synonyms and through correct usage. Use the method only. Do not reproduce any book's text, definitions, or word lists.
 
-The user is an ML researcher and a non-native English speaker. Explain in Chinese unless they ask otherwise. Keep English for the words, phrases, and example sentences themselves. Do not use em dashes or en dashes.
+The user is an ML researcher and a non-native English speaker. Explain in English, in plain words a non-native speaker can follow easily. Do not use em dashes or en dashes.
 
 ## Mode 1 (main use): polishing paper writing
 
@@ -16,7 +16,7 @@ Apply this whenever the user asks to polish, edit, or improve the wording of a p
 1. Read the passage and find vague or generic words and phrases (get, show, make worse, test, depend on, mix up, a lot of, very important).
 2. Replace one only when a more exact word exists for what the sentence means.
 3. Return the polished text first, with LaTeX commands, citations, and math left untouched.
-4. After the text, list the word changes in a short table: original, replacement, and one line in Chinese on why the new word is more accurate here. This list is how the user learns the words, so do not skip it.
+4. After the text, list the word changes in a short table: original, replacement, and one line on why the new word is more accurate here. This list is how the user learns the words, so do not skip it.
 
 Rules:
 
@@ -32,7 +32,7 @@ Rules:
 Give a word card, in this order, and keep it short:
 
 1. Word, IPA, and a rhyme or warning if the spelling misleads (for example gauge rhymes with cage).
-2. Core meaning in one line of Chinese, with part of speech.
+2. Core meaning in one plain line, with part of speech.
 3. The distinction: the one or two closest common words, and what this word says that they do not (register, degree, precision, connotation). This is the most important part.
 4. Two or three example sentences, at least one in an ML paper context.
 5. Common collocations.
