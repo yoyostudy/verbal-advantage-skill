@@ -8,7 +8,7 @@ It does three things:
 2. **Explain a word.** Pronunciation, core meaning, how it differs from its nearest common synonyms, ML-paper examples, collocations.
 3. **Teach a batch of words.** 5 to 8 words on one theme, with an optional quiz.
 
-Explanations are in plain English.
+Explanations are in simple, concise English.
 
 ## What is Verbal Advantage?
 
@@ -40,5 +40,5 @@ Output:
 
 | Original | Replacement | Why |
 |---|---|---|
-| is too easy now | has largely saturated | "saturate" is the specific term for a benchmark that models have maxed out, so it no longer separates them |
-| show | gauge | "gauge" means to measure a level, which fits evaluation better than "show" |
+| is too easy now | has largely saturated | the exact term for a benchmark that models have maxed out |
+| show | gauge | means "measure the level of", which is what a benchmark does |

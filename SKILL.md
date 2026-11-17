@@ -7,7 +7,7 @@ description: Use when polishing or editing English paper writing to replace vagu
 
 Help the user write with words that say something more exactly than the common word does. The approach follows the method of vocabulary books like Verbal Advantage: a word is chosen and taught through its distinction from near-synonyms and through correct usage. Use the method only. Do not reproduce any book's text, definitions, or word lists.
 
-The user is an ML researcher and a non-native English speaker. Explain in English, in plain words a non-native speaker can follow easily. Do not use em dashes or en dashes.
+The user is an ML researcher and a non-native English speaker. Explain in simple, concise English: short sentences and common words. The explanation must be easier to read than the word it explains. Do not use em dashes or en dashes.
 
 ## Mode 1 (main use): polishing paper writing
 
