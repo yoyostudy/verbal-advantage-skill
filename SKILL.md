@@ -39,7 +39,7 @@ Give a word card, in this order, and keep it short:
 6. Misuse or confusion to watch for, only if there is a real one.
 7. Other senses, only when the user is likely to meet them.
 
-If the user quotes a phrase from a paper, first translate the whole phrase in context, then give the card for the key word.
+If the user quotes a phrase from a paper, first restate the whole phrase in simple English, then give the card for the key word.
 
 ## Mode 3: the user wants to learn more words
 
